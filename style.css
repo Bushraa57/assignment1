@@ -1,0 +1,110 @@
+.focused{
+   display: flex;
+}
+.focused img{
+   width:40%;
+}
+.Half-width{
+   padding-left: 40px;
+}
+h1{
+  font-size: 50px;
+}
+body{
+   font-family: "Playfair Display", serif;
+   font-size: 18px;
+padding-left: 35px;
+margin-left: 20px;
+
+}
+.clr-title{
+   color:rgba(242, 157, 20, 0.856);
+}
+.link-button{
+   text-decoration: none;
+   color: white;
+   background-color:rgba(255, 17, 0, 0.606);
+   padding: 10px 20px;
+   border-radius: 5px;
+}
+.border{
+   border-left: 5px solid orangered;
+   border-radius: 5px;
+   padding-left: 7px;
+
+}
+.font{
+
+   font-family: "Reddit Sans Condensed", sans-serif;
+
+}
+section{
+   margin-bottom: 8%;
+}
+.width{
+   display: flex;
+   
+}
+.width img{
+   width:30%;
+}
+.center{
+   text-align: center;
+}
+#mission{
+   padding-left: 15px;
+   padding-right: 15px;
+
+   margin-left: 30px;
+   margin-right: 10px;
+   padding: 10px 30px;
+   background-color: rgba(85, 151, 130, 0.606);
+   border-radius: 5px;
+   
+}
+#vission{
+  background-color: rgb(190, 133, 133);
+  padding: 10px 30px;
+   margin-left: 10px;
+   border-radius: 5px;
+}
+#goals{
+   background-color: rgba(160, 108, 90, 0.635);
+   padding: 10px 30px;
+   margin-left: 20px;
+   border-radius: 5px;
+}
+.limit{
+   display: flex;
+   background-image: url(images/shapes/shape-1.png);
+   background-repeat: no-repeat;
+   background-position: left;
+   background-size: 200px;
+}
+.limit  img{
+   width:60%;
+   margin-left: 10%;
+}
+.limit2{
+   display: flex;
+   background-image: url(images/shapes/shape-1.png);
+   background-repeat: no-repeat;
+   background-position: right bottom;
+ 
+   background-size: 250px;
+}
+.limit2 img{
+   width:60%;
+   margin-left: 10%;
+   margin-right: 10%;
+}
+#app img{
+   width: 60%;
+   margin-left: 10%;
+   background-image: url(images/shapes/shape-3.png);
+   background-size: 100px;
+ background-repeat: no-repeat;
+   background-position: rigt top;
+   background-position: left middle;
+   background-position: left bottom;
+}
