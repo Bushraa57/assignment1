@@ -108,3 +108,8 @@ section{
    background-position: left middle;
    background-position: left bottom;
 }
+footer{
+   background-color: black;
+   color: white;
+   margin-left: 0%;
+}
